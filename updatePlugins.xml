@@ -1,0 +1,3 @@
+<plugins>
+    <plugin id='jetbrains.mps.coderules' url='https://github.com/fisakov/constraints-typechecking/releases/download/v0.5-snapshot.40/coderules-0.5.zip' version='0.5-b40' />
+</plugins>
